@@ -1553,7 +1553,7 @@
                     <value>0.027</value>
                 </product>
             </function>
-
+<!--
             <function name="aero/coefficient/CDDf">
                 <description>Delta_drag_due_to_flap_deflection</description>
                 <product>
@@ -1571,7 +1571,7 @@
                     </table>
                 </product>
             </function>
-
+-->
              <function name="aero/coefficient/CDwbh">
                 <description>Drag_due_to_alpha</description>
                 <product>
